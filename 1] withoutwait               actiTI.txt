@@ -1,0 +1,7 @@
+1] withoutwait               actiTIME - Login
+2] with thread.sleep          actiTIME - Enter Time-Track [true]
+3] with explicitwait
+ 
+
+          Loginpagetitle  =  actiTIME - Login
+	    homepagetitle   =  actiTIME - Enter Time-Track
